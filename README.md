@@ -1,23 +1,26 @@
-# Syksyn 2022 ryhmäprojekti
+# Autumn 2022 school group project
 
-## Projektin nimi: Web-sovellusprojekti
+## Projects name: Web-sovellusprojekti
 
-## Linkki appiin: https://group5-visualizationtool-gbn4.onrender.com/ (kuvaajien datan lataus saattaa kestää hetken)
+## Link to app: https://group5-visualizationtool-gbn4.onrender.com/ (data for graphs may appear delayed)
 
-## Projektin aihe ja tarkoitus
-Projektin aiheena oli tehdä visualisointityökalu, jossa voidaan tarkastella erilaisia ilmastonmuutokseen liittyviä kuvaajia. Sovelluksessa on myös mahdollista tehdä käyttäjä, jolla voidaan luoda omia visualisointinäkymiä yksilöllisillä url-tunnisteilla. Näkymiin käyttäjä voi valita haluamansa visualisoinnit ja asettelun, sekä kirjoittaa kuvaustekstin jokaiselle visualisoinnille. Käyttäjien luomat näkymät ovat löydettävissä julkisesti internetissä. 
+## Demo video (in Finnish): https://www.youtube.com/watch?v=vOyx4rCLYqU
 
-Projektin tarkoituksena oli perehtyä full-stack ohjelmoinnin perusteisiin ja Kanban-kehitysmallin käyttämiseen.
+## Projects idea and purpose
+Projects idea was to create visualization tool, that shows different types of graphs about climate change. It is also possible to create a user, which you can use to create your own custom visualization views and share them with unique URLs. User can select desired graphs and add a custom caption to create a view. All user made views can be found publicly with correct URL.
 
-## Mitä teknologioita projektissa on käytetty?
+Projects purpose was to become familiar with full-stack programming and Kanban -development model.
+
+## Technologies and tools: 
 
 ### Frontend
 
-Sovelluksen frontend on toteutettu käyttäen ReactJS (JavaScript kirjasto), Bootstrap (CSS kehys) ja CSS:ää HTML:n tyylittämiseen. Erilaisten pakettien asentamiseen käytettiin npm:ää (node package manager). Mainisemisen arvoisia paketteja ovat: Chart.js, React-Chartjs-2, Axios, Bootstrap, React-Bootstrap
+Projects frontend was created using React.js (JavaScript library), Bootstrap (CSS framework) and CSS. For installing packages for frontend we used npm (a node package manager). Worth mentioning packages are Chart.js, React-Chartjs-2, Axios, Bootstrap and React-Bootsrap.
 
 ### Backend
 
-Backend toteutettiin myös Javascriptillä käyttäen Node.js ajoympäristöä, käytössä on myös muunmuassa Express.js niminen kirjasto jota käytettiin sovelluksen API:n rakentamisessa, sekä Mongoose jonka avulla voitiin luoda yhteys tietokannan ja backendin välillä.
+Projects backend was created using JavaScript and Node.js. We also used Express.js (a web application framework) for building the API (Application Program Interface). Most important package was Mongoose, which was used for creating a connection between Backend and Database.
+
 
 ### Tietokanta
 
