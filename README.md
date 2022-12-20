@@ -22,12 +22,16 @@ Projects frontend was created using React.js (JavaScript library), Bootstrap (CS
 Projects backend was created using JavaScript and Node.js. We also used Express.js (a web application framework) for building the API (Application Program Interface). Most important package was Mongoose, which was used for creating a connection between Backend and Database.
 
 
-### Tietokanta
+### Database
 
-Tietokannaksi valittiin MongoDB, joka on avoimen lähteen dokumenttipohjainen NoSQL tietokanta. Suurin syy MongoDB:n valinnalle oli sen yksinkertainen rakenne.
+We used MongoDB (an open-source NoSQL database) in this project, mainly because it has fairly simple structure and it is easy to use/learn.
 
-## Ketkä tekivät ja mikä oli kenenkin rooli
--?-
+### UI
+
+We designed our UI using Figma. Figma is a web-based graphics editing and user interface design app.
+
+### Testing
+Todo
 
 ## Arkkitehtuuri ja rakenne
 
