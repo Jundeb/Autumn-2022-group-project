@@ -12,7 +12,7 @@ Projects idea was to create visualization tool, that shows different types of gr
 Projects purpose was to become familiar with full-stack programming and Kanban -development model.
 
 ![](Client/src/assets/Kuvaaja1.png)
-*Picture of first graph in the "Lämpötilatiedot ja c02 pitoisuudet" page.*
+*Picture of the first graph in the "Lämpötilatiedot ja c02 pitoisuudet" page.*
 
 ## Technologies and tools: 
 
