@@ -49,12 +49,9 @@ For Backend testing we used integration test approach. We used Jest and SuperTes
 ### UI design
 [Link to Figma](https://www.figma.com/file/tXrYVw573jIBt49oBs0tLg/Group5?node-id=0%3A1)
 
+## How to run locally
 
-## Käyttöönotto
-
-### Lokaalisti
-
-1. Kloonaa repositorio.
-2. Siirry 'Client' kansioon ja asennna dependencyt komennolla 'npm install', tee sama 'Server' kansion sisällä.
-3. Käynnistä sovelluksen frontend komennolla npm start 'Client' kansion sisällä.
-4. Käynnistä sovelluksen backend komennolla npm run devStart 'Server' kansion sisällä.
+1. Clone repository
+2. Move to folder 'Client' and install all dependencies with command 'npm install', do the same inside a 'Server' folder.
+3. Start the apps frontend with command 'npm start' inside the 'Client' folder.
+4. Start the apps backend with command 'npm run devStart' inside the 'Server' folder.
