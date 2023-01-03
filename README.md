@@ -1,6 +1,6 @@
 # Autumn 2022 school group project
 
-## Projects name: Web-sovellusprojekti
+## Projects name: Web application
 
 ## Link to app: https://group5-visualizationtool-gbn4.onrender.com/ (data for graphs may appear delayed)
 
