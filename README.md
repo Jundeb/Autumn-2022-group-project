@@ -24,7 +24,6 @@ Projects frontend was created using React.js (JavaScript library), Bootstrap (CS
 
 Projects backend was created using JavaScript and Node.js. We also used Express.js (a web application framework) for building the API (Application Program Interface). Most important package was Mongoose, which was used for creating a connection between Backend and Database.
 
-
 ### Database
 
 We used MongoDB (an open-source NoSQL database) in this project, mainly because it has fairly simple structure and it is easy to use/learn.
@@ -56,3 +55,20 @@ For Backend testing we used integration test approach. We used Jest and SuperTes
 2. Move to folder 'Client' and install all dependencies with command 'npm install', do the same inside a 'Server' folder.
 3. Start the apps frontend with command 'npm start' inside the 'Client' folder.
 4. Start the apps backend with command 'npm run devStart' inside the 'Server' folder.
+
+## What everyone did
+
+# Junnu Kyrö
+Worked with data, made 2 graphs, made 'luo uusi näkymä' function, created the user made view page, CSS, fetch graph data from database, worked with backend/frontend, made frontend tests.
+
+# Antti-Jussi Niku
+Worked with data, made 3 graphs, delete user function, responsives, initialization of the backend, fetch graph data from database, worked with backend/frontend.
+[Link to Anttis GitHub](https://github.com/ArunJ0)
+
+# Anssi Rauhala
+Worked with data, made 2 graphs, login, registed and delete view functions, CSS, worked with backend/frontend, made backend tests.
+[Link to Anssis GitHub](https://github.com/luris123)
+
+# Santtu Tiitinen
+Worked with data, UI design, responsives, CSS.
+[Link to Santtus GitHub](https://www.figma.com/file/tXrYVw573jIBt49oBs0tLg/Group5?node-id=0%3A1)
