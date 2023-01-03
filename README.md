@@ -63,12 +63,15 @@ Worked with data, made 2 graphs, made 'luo uusi näkymä' function, created the 
 
 ### Antti-Jussi Niku
 Worked with data, made 3 graphs, delete user function, responsives, initialization of the backend, fetch graph data from database, worked with backend/frontend.
+
 [Link to Anttis GitHub](https://github.com/ArunJ0)
 
 ### Anssi Rauhala
 Worked with data, made 2 graphs, login, registed and delete view functions, CSS, worked with backend/frontend, made backend tests.
+
 [Link to Anssis GitHub](https://github.com/luris123)
 
 ### Santtu Tiitinen
 Worked with data, UI design, responsives, CSS.
+
 [Link to Santtus GitHub](https://github.com/santtutiitinen)
