@@ -7,7 +7,7 @@
 ## Demo video (in Finnish): https://www.youtube.com/watch?v=vOyx4rCLYqU
 
 ## Projects idea and purpose
-Projects idea was to create visualization tool, that shows different types of graphs about climate change. It is also possible to create a user, which you can use to create your own custom visualization views and share them with unique URLs. User can select desired graphs and add a custom caption to create a view. All user made views can be found publicly with correct URL.
+Projects idea was to create a visualization tool, which shows different types of graphs about climate change. It is also possible to create a user, which you can use to create your own custom visualization views and share them with unique URLs. User can select desired graphs and add a custom caption to create a view. All user made views can be found publicly with correct URL.
 
 Projects purpose was to become familiar with full-stack programming and Kanban -development model.
 
