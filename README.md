@@ -34,11 +34,13 @@ We used MongoDB (an open-source NoSQL database) in this project, mainly because 
 We designed our UI using Figma. Figma is a web-based graphics editing and user interface design app.
 
 ### Testing
-Todo
 
-## Arkkitehtuuri ja rakenne
+For Frontend testing we used Cypress which is a End to End (E2E) testing library.
+For Backend testing we used integration test approach. We used Jest and SuperTest libraries for testing API.
 
-### Sovelluksen rakenne
+## Architecture and structure
+
+### Apps structure
 ![](Client/src/assets/Arkkitehtuuri.png)
 
 ### Tietokanta rakenne
