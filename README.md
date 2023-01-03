@@ -36,6 +36,7 @@ We designed our UI using Figma. Figma is a web-based graphics editing and user i
 ### Testing
 
 For Frontend testing we used Cypress which is a End to End (E2E) testing library.
+
 For Backend testing we used integration test approach. We used Jest and SuperTest libraries for testing API.
 
 ## Architecture and structure
