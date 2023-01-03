@@ -40,14 +40,15 @@ For Backend testing we used integration test approach. We used Jest and SuperTes
 
 ## Architecture and structure
 
-### Apps structure
+### Picture of applications structure:
 ![](Client/src/assets/Arkkitehtuuri.png)
 
-### Tietokanta rakenne
+### Picture of how data is structured in a database:
 ![](Client/src/assets/Tietokanta1.png)
 
-### Käyttöliittymäsuunnitelma
--kuva vai linkki tähän-
+### UI design
+* [Link to Figma](https://www.figma.com/file/tXrYVw573jIBt49oBs0tLg/Group5?node-id=0%3A1)
+
 
 ## Käyttöönotto
 
