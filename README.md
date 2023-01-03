@@ -58,17 +58,17 @@ For Backend testing we used integration test approach. We used Jest and SuperTes
 
 ## What everyone did
 
-# Junnu Kyrö
+### Junnu Kyrö
 Worked with data, made 2 graphs, made 'luo uusi näkymä' function, created the user made view page, CSS, fetch graph data from database, worked with backend/frontend, made frontend tests.
 
-# Antti-Jussi Niku
+### Antti-Jussi Niku
 Worked with data, made 3 graphs, delete user function, responsives, initialization of the backend, fetch graph data from database, worked with backend/frontend.
 [Link to Anttis GitHub](https://github.com/ArunJ0)
 
-# Anssi Rauhala
+### Anssi Rauhala
 Worked with data, made 2 graphs, login, registed and delete view functions, CSS, worked with backend/frontend, made backend tests.
 [Link to Anssis GitHub](https://github.com/luris123)
 
-# Santtu Tiitinen
+### Santtu Tiitinen
 Worked with data, UI design, responsives, CSS.
-[Link to Santtus GitHub](https://www.figma.com/file/tXrYVw573jIBt49oBs0tLg/Group5?node-id=0%3A1)
+[Link to Santtus GitHub](https://github.com/santtutiitinen)
